@@ -1,0 +1,3 @@
+https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
+
+Haar Cascade is useful for detecting objects. There are lot of Harrcascade XML Files available e.g. Frontal Face, Car ,Eye ,trees etc.
